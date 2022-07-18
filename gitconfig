@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dechazalp@gmail.com
+	name = Philippe de Chazal
